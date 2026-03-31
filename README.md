@@ -23,3 +23,5 @@ Wearable ESP32-based sound classification system using Edge Impulse.
 
 ## Status
 Working prototype 🚧
+
+[View Documentation](docs/SilentSense_Notes.pdf)
