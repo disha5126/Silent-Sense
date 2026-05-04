@@ -9,6 +9,8 @@
 
 Wearable ESP32-based environmental sound classification system using TinyML and Edge Impulse.
 
+[📄 Read Full Technical Report](./docs/SilentSense.pdf) | [📊 Performance Metrics](#-deployment-performance) | [🛠️ Hardware Setup](#-technical-stack)
+
 ## Features
 - Real-time environmental sound classification
 - RGB LED feedback system
